@@ -18,7 +18,3 @@ I love code and developing solutions as a software engineer.
 ### Version Control: <img src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 ## What I don't know, give me a few days 😁
-
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=hirtonsantos&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c25)](https://github.com/nielitton)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirtonsantos&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/nielitton)
