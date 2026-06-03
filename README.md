@@ -1,20 +1,87 @@
-# Hi, I'm Nieliton Sousa!
+# Olá, eu sou o Nieliton Sousa 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nielitton)](https://github.com/nielitton)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nieliton-rodrgs/)](https://www.linkedin.com/in/nieliton-rodrgs/)
+Sou **Engenheiro de Software Full Stack**, com foco em **Backend**, especializado em **Node.js, NestJS e TypeScript**. Tenho experiência no desenvolvimento de APIs escaláveis, microsserviços, integrações entre sistemas e aplicações web modernas.
 
-## About me:
+Atuo também no Front-end com **React.js, Next.js, TypeScript e Tailwind CSS**, sempre buscando criar interfaces performáticas, organizadas e com boa experiência para o usuário.
 
-I'm a Full-Stack Developer :smile:
+---
 
-I love code and developing solutions as a software engineer.
+## 🚀 Sobre mim
 
-## My specialties:
+* 💻 Desenvolvedor Full Stack com foco em Backend
+* ⚙️ Experiência com APIs REST, microsserviços e integrações
+* 🧠 Interesse em Inteligência Artificial, automações e soluções escaláveis
+* 🎥 Experiência com processamento de vídeo, OpenCV, FFmpeg e streams RTSP
+* 🐳 Vivência com Docker, Docker Compose e ambientes em cloud
+* 📍 Fortaleza - CE, Brasil
 
-### Languages: <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+---
 
-### Frontend: <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" /> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+## 🛠️ Tecnologias e ferramentas
 
-### Version Control: <img src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+### Back-end
 
-## What I don't know, give me a few days 😁
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+
+### Front-end
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### Banco de dados e ORM
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=prisma\&logoColor=white)
+
+### DevOps e Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+---
+
+## 📌 Experiências e interesses
+
+Tenho experiência em projetos envolvendo:
+
+* Desenvolvimento de APIs com **Node.js, NestJS e TypeScript**
+* Criação e manutenção de aplicações **React e Next.js**
+* Modelagem de banco de dados com **Prisma, PostgreSQL, MySQL e MongoDB**
+* Integrações com APIs externas, webhooks e mensageria
+* Otimização de performance e SEO em aplicações web
+* Deploy e configuração de ambientes com **Docker e AWS**
+* Processamento de vídeo em tempo real com **OpenCV, FFmpeg e RTSP**
+* Desenvolvimento de soluções com foco em escalabilidade e evolução de arquitetura
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Nieliton GitHub stats](https://github-readme-stats.vercel.app/api?username=nieliton-sousa\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nieliton-sousa\&layout=compact\&theme=tokyonight)
+
+</div>
+
+---
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nieliton%20Sousa-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-nieliton.sousa3040%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nieliton.sousa3040@gmail.com)
+
+---
+
+## 💡 Frase que me representa
+
+> Sempre buscando evoluir como desenvolvedor, construir soluções úteis e transformar desafios em aprendizado.
