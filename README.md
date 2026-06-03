@@ -6,8 +6,20 @@
 
 <p>
   Desenvolvedor Full Stack com foco em Backend, apaixonado por criar APIs escaláveis, microsserviços, integrações e aplicações web modernas.
-  Tenho experiência com Node.js, NestJS, TypeScript, React, Next.js, Docker, AWS, bancos relacionais e não relacionais.
+  Tenho experiência com Node.js, NestJS, TypeScript, React, Next.js, React Native, Docker, AWS, bancos relacionais e não relacionais.
 </p>
+
+<a href="mailto:nieliton.sousa3040@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-nieliton.sousa3040%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/nielitton">
+  <img src="https://img.shields.io/badge/LinkedIn-Nieliton%20Sousa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/nielitton">
+  <img src="https://img.shields.io/badge/GitHub-nielitton-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -23,10 +35,11 @@
 const nieliton = {
   role: "Engenheiro de Software Full Stack",
   focus: ["Backend", "APIs", "Microsserviços", "Arquitetura", "Performance"],
-  mainStack: ["Node.js", "NestJS", "TypeScript", "React", "Next.js"],
+  mainStack: ["Node.js", "NestJS", "TypeScript", "React", "Next.js", "React Native"],
   databases: ["PostgreSQL", "MySQL", "MongoDB"],
   tools: ["Docker", "AWS", "Prisma", "Git", "CI/CD"],
   interests: ["IA", "Visão Computacional", "Automações", "Soluções escaláveis"],
+  username: "nielitton",
   location: "Fortaleza - CE, Brasil"
 };
 ```
@@ -115,6 +128,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=nielitton&th
 
 * Desenvolvimento de APIs REST com **Node.js, NestJS e TypeScript**
 * Criação de aplicações web com **React.js, Next.js e Tailwind CSS**
+* Desenvolvimento mobile com **React Native e Expo**
 * Modelagem de banco de dados com **Prisma, PostgreSQL, MySQL e MongoDB**
 * Arquitetura de microsserviços e integrações com APIs externas
 * Deploy e configuração de ambientes com **Docker, Docker Compose e AWS**
@@ -136,6 +150,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=nielitton&th
 ![NestJS](https://img.shields.io/badge/NestJS-API-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Code-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge\&logo=react\&logoColor=000)
+![React Native](https://img.shields.io/badge/React%20Native-Mobile-61DAFB?style=for-the-badge\&logo=react\&logoColor=000)
 ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
