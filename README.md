@@ -21,6 +21,10 @@
   <img src="https://img.shields.io/badge/GitHub-nielitton-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://nielitton.com.br">
+  <img src="https://img.shields.io/badge/Portfólio-nielitton.com.br-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </div>
 
 ---
@@ -40,6 +44,7 @@ const nieliton = {
   tools: ["Docker", "AWS", "Prisma", "Git", "CI/CD"],
   interests: ["IA", "Visão Computacional", "Automações", "Soluções escaláveis"],
   username: "nielitton",
+  portfolio: "https://nielitton.com.br",
   location: "Fortaleza - CE, Brasil"
 };
 ```
@@ -153,6 +158,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=nielitton&th
 ![React Native](https://img.shields.io/badge/React%20Native-Mobile-61DAFB?style=for-the-badge\&logo=react\&logoColor=000)
 ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![IA](https://img.shields.io/badge/IA-Automações-7B61FF?style=for-the-badge\&logo=openai\&logoColor=white)
 
 </div>
 
@@ -172,6 +178,10 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=nielitton&th
 
 <a href="https://github.com/nielitton">
   <img src="https://img.shields.io/badge/GitHub-nielitton-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://nielitton.com.br">
+  <img src="https://img.shields.io/badge/Portfólio-nielitton.com.br-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
